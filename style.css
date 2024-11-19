@@ -1,0 +1,44 @@
+body{
+    background-color:rgb(192, 221, 230);
+}
+#vid{
+    padding-top: 20px;
+    height: 500px;
+    width: 380px;
+    background-color: rgb(255, 234, 203);
+    border-radius: 10px;
+    border: 1px solid rgb(194, 190, 190);
+}
+#ivd{
+    height: 70px;
+    width: 380px;
+    background-color: rgb(255, 234, 203);
+    border-radius: 10px;
+    border: 1px solid rgb(194, 190, 190);
+    display: flex;
+    align-items: center;
+    
+}
+input{
+    height: 45px;
+    width: 300px;
+    border: 1px solid rgb(211, 204, 204);
+    border-radius: 5px;
+    padding-left: 10px;
+    font-size: 16px;
+}
+button{
+    height: 45px;
+    width: 310px;
+    border: none;
+    border-radius: 5px;
+    background-color: rgb(20, 174, 235);
+    color: white;
+    font-size: 25px;
+}
+p{
+padding-left: 90px;
+}
+a{
+    text-decoration: none;
+}
